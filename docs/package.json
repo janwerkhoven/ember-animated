@@ -30,7 +30,7 @@
     "@ember/string": "^3.0.0",
     "@ember/test-helpers": "^2.7.0",
     "@faker-js/faker": "^6.2.0",
-    "@fortawesome/ember-fontawesome": "^0.3.2",
+    "@fortawesome/ember-fontawesome": "^0.4.0",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "@glimmer/component": "^1.1.2",
     "@glimmer/tracking": "^1.1.2",
